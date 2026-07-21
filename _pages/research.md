@@ -9,6 +9,7 @@ My current research primarily focuses on the galaxy formation and evolution, esp
 Recent observations such as JWST, ALMA, and more and more telescopes are offering abudant opportunities for the study of galaxies at high redshifts. 
 These galaxies exhibit different characteristics compared with those in the local Universe. 
 Not only can they deepen our understand of the evolution path of galaxies, but also they are particularly intriguing themselves. 
+
 My current study is to look deep into the massive galaxies around cosmic noon. 
 This type of galaxies looks quite small, while possess comparable stellar masses, which means there are extremely dense structures insides. 
 The question that when and how these compact galaxies form comes naturally. 
