@@ -1,3 +1,10 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
+
 My current research primarily focuses on the galaxy formation and evolution, especially in the early Universe. 
 Recent observations such as JWST, ALMA, and more and more telescopes are offering abudant opportunities for the study of galaxies at high redshifts. 
 These galaxies exhibit different characteristics compared with those in the local Universe. 
