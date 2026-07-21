@@ -15,7 +15,7 @@ main:
     url: /new_publications/
     
   - title: "CV"
-    url: /new_cv/
+    url: /cv/
 
   - title: "Personal"
     url: /personal/
