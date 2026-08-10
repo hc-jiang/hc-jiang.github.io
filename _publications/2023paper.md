@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The Lyα Nondetection by JWST NIRSpec of a Strong Lyα Emitter at z = 5.66 Confirmed by MUSE"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-paper-title-number-1
