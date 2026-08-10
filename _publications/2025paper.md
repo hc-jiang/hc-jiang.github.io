@@ -2,7 +2,7 @@
 title: "Dissecting the Mass Quenching in TNG50: Galaxy Size Determines the Quenching Mode"
 collection: publications
 permalink: /publication/2025paper
-date: 2025-12
+date: 2025-12-01
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ae17c1/pdf'
 ---
