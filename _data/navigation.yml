@@ -12,7 +12,7 @@ main:
     url: /research/   
 
   - title: "Publications"
-    url: /new_publications/
+    url: /publications/
     
   - title: "CV"
     url: /cv/
